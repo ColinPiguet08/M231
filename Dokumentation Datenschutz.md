@@ -25,3 +25,16 @@ Wir mussten Zwei Themen, im Bereich Datenschutz, genauer anschauen und dies Doku
 4. Links zum Signieren und Verschlüsseln von Dateien, Ordnern und E-Mails
 5. E-Mails mit S/MIME-Zertifikat signieren und verschlüsseln
 6. Spezialisierte Anwendung für E-Mail-Signatur und -Verschlüsselung verwenden
+
+## Smartphone-Sicherheit in 10 Schritten erhöhen
+
+1. Aktivieren Sie die Gerätesperre
+2. Sperren und löschen Sie das Gerät bei Verlust sofort
+3. Installieren Sie Apps nur aus vertrauenswürdigen Quellen
+4. Nutzen Sie öffentliche WLAN mit Vorsicht
+5. Installieren Sie Updates
+6. Löschen Sie Daten sicher
+7. Beachten Sie allgemeine Vorsichtsregeln
+8. Deaktivieren Sie drahtlose Schnittstellen
+9. Schränken Sie die Synchronisierung ein
+10. Benutzen Sie fürs Login einen zweiten Faktor
