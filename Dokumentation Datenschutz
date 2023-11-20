@@ -17,3 +17,11 @@ Wir mussten Zwei Themen, im Bereich Datenschutz, genauer anschauen und dies Doku
 2. Nutzen Sie Spamfilter des E-Mail-Clients und des E-Mail-Providers.
 3. Aktivieren Sie einen sicheren Übertragungskanal (Transportverschlüsselung, TLS oder SSL) gemäss Informationen des E-Mail-Providers im E-Mail-Client.
 4. Richten Sie einen Virenschutz ein und halten Sie ihn aktuell halten. Ermöglichen Sie dem Programm das Scannen von E-Mails und Anhängen (inklusive Zip-Dateien).
+
+### Mit diesen Mitteln können Sie Vertraulichkeit gewährleisten
+1. Verschlüsseln Sie Anhänge
+2. Nutzen Sie zentrale Datenaustauschplattformen
+3. E-Mails mit GPG oder PGP verschlüsseln
+4. Links zum Signieren und Verschlüsseln von Dateien, Ordnern und E-Mails
+5. E-Mails mit S/MIME-Zertifikat signieren und verschlüsseln
+6. Spezialisierte Anwendung für E-Mail-Signatur und -Verschlüsselung verwenden
