@@ -1,4 +1,4 @@
-# Eduard und Colin Cookie Auftrag
+# Eduard, Nico und Colin Cookie Auftrag
 ## 1. Unterschiedliche Optionen auf Webseiten:
 Manche Websites zeigen Banner mit verschiedenen Optionen:
 
