@@ -1,28 +1,30 @@
-# 04 Ablagesysteme:
+## 04 Ablagesysteme
+Ein sorgfältig strukturiertes Ablagesystem bildet die Grundlage für eine geordnete digitale Umgebung. Hier sind einige wichtige Überlegungen:
 
-Strukturiere deine Dateien logisch in Ordner und Unterordner.
-Verwende klare und konsistente Dateinamen.
-Backup und synchronisiere wichtige Dateien regelmäßig in Cloud-Diensten oder externen Laufwerken.
-Achte auf die Einhaltung von Datenschutzrichtlinien bei der Speicherung von sensiblen Informationen.
+- #### Logische Strukturierung:
+  Ordner und Unterordner sollten logisch organisiert sein, um einen einfachen Zugriff auf Dateien zu ermöglichen.
 
-# 05 Backup:
+- #### Klare und Konsistente Dateinamen:
+  Verwende aussagekräftige und eindeutige Dateinamen, um die Identifikation zu erleichtern. Konsistenz in der Benennung fördert die Übersichtlichkeit.
 
-## Schutz vor Datenverlust:
+- #### Regelmäßige Backups:
+  Sichere wichtige Dateien regelmäßig durch Backups. Dies kann in Cloud-Diensten oder auf externen Laufwerken erfolgen, um gegen Datenverlust abgesichert zu sein.
 
-Führe regelmäßige Backups durch, idealerweise automatisiert.
-Verwende verschiedene Speicherorte für Backups, um gegen physische Schäden abzusichern.
-Prüfe die Verschlüsselungsoptionen für deine Backups, um sensible Daten zu schützen.
-## Tests:
+- #### Datenschutzrichtlinien beachten:
+  Achte darauf, dass die Speicherung sensibler Informationen den Datenschutzrichtlinien entspricht, um die Sicherheit zu gewährleisten.
 
-Überprüfe regelmäßig die Wiederherstellungsfähigkeit deiner Backups.
-Simuliere verschiedene Szenarien von Datenverlust, um die Effektivität deiner Backup-Strategie zu testen.
-Einbezug von 06 (Tagesdokument):
+## 05 Backup
+### Schutzvorkehrungen gegen Datenverlust:
+- Regelmäßige Backups: Führe Backups in regelmäßigen Abständen durch, vorzugsweise automatisiert, um die Kontinuität der Datensicherung zu gewährleisten.
 
-Dokumentiere regelmäßig deine Backup-Aktivitäten im Tagesdokument.
-Vermerke Änderungen in der Backup-Strategie und die Ergebnisse von Backup-Tests.
-Integriere Informationen zu Sicherheitsupdates und -patches in das Tagesdokument.
+- Verschiedene Speicherorte: Verwende unterschiedliche Speicherorte für Backups, um physische Schäden an einem Speicherort zu kompensieren.
 
+- Verschlüsselungsoptionen: Prüfe und nutze Verschlüsselungsoptionen für Backups, insbesondere bei sensiblen Daten, um die Vertraulichkeit zu wahren.
+
+### Tests zur Sicherstellung der Effektivität:
+- Wiederherstellungsfähigkeit prüfen: Regelmäßige Tests zur Wiederherstellungsfähigkeit der Backups stellen sicher, dass im Ernstfall eine zuverlässige Datenwiederherstellung möglich ist.
+  
+- Simulation von Datenverlustszenarien: Simuliere verschiedene Szenarien von Datenverlust, um die Effektivität der Backup-Strategie unter verschiedenen Bedingungen zu überprüfen.
 ## Zusätzliche Überlegungen:
-
-Beachte die DSGVO und andere Datenschutzbestimmungen bei der Handhabung von Backups.
-Bedenke die steigende Bedrohung durch Ransomware und implementiere Schutzmaßnahmen.
+- Beachte die DSGVO und andere Datenschutzbestimmungen bei der Handhabung von Backups.
+- Bedenke die steigende Bedrohung durch Ransomware und implementiere Schutzmaßnahmen.
