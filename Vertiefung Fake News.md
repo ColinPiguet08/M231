@@ -3,7 +3,7 @@
 ### Was sind Fake News und wie lassen sie sich definieren?
 - Fake News sind falsche oder irreführende Informationen, die absichtlich erstellt und verbreitet werden, um die öffentliche Meinung zu beeinflussen, Desinformation zu fördern oder bestimmte Interessen zu unterstützen. Diese falschen Nachrichten können verschiedene Formen annehmen, einschließlich erfundener Geschichten, manipulierter Bilder oder Videos sowie aus dem Zusammenhang gerissener Zitate. Der Begriff "Fake News" hat in den letzten Jahren an Popularität gewonnen, insbesondere im Kontext von sozialen Medien und der digitalen Informationsverbreitung.
 
-#### Hier sind einige Schlüsselmerkmale von Fake News:
+### Schlüsselmerkmale von Fake News:
 
 - Falschheit: Fake News enthalten bewusst ungenaue oder erfundene Informationen. Dies kann bedeuten, dass die gesamte Geschichte falsch ist oder dass bestimmte Details absichtlich manipuliert wurden.
 
