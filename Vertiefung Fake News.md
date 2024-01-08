@@ -1,7 +1,20 @@
-Definition und Charakteristika von Fake News:
+# Fake News
+## Definition und Charakteristika von Fake News:
+### Was sind Fake News und wie lassen sie sich definieren?
+- Fake News sind falsche oder irreführende Informationen, die absichtlich erstellt und verbreitet werden, um die öffentliche Meinung zu beeinflussen, Desinformation zu fördern oder bestimmte Interessen zu unterstützen. Diese falschen Nachrichten können verschiedene Formen annehmen, einschließlich erfundener Geschichten, manipulierter Bilder oder Videos sowie aus dem Zusammenhang gerissener Zitate. Der Begriff "Fake News" hat in den letzten Jahren an Popularität gewonnen, insbesondere im Kontext von sozialen Medien und der digitalen Informationsverbreitung.
+#
+Hier sind einige Schlüsselmerkmale von Fake News:
 
-Was sind Fake News und wie lassen sie sich definieren?
-Merkmale von Fake News: Irreführende Informationen, Falschdarstellungen, Manipulation von Fakten.
+- Falschheit: Fake News enthalten bewusst ungenaue oder erfundene Informationen. Dies kann bedeuten, dass die gesamte Geschichte falsch ist oder dass bestimmte Details absichtlich manipuliert wurden.
+
+- Irreführung: Ziel von Fake News ist es oft, Menschen zu täuschen oder in die Irre zu führen. Dies kann dazu dienen, politische Agenden voranzutreiben, soziale Spannungen zu schüren oder wirtschaftliche Vorteile zu erlangen.
+
+- Verbreitung: Fake News verbreiten sich oft schnell, insbesondere in Zeiten von Social Media, wo Informationen schnell geteilt werden können. Die virale Verbreitung kann dazu beitragen, dass falsche Informationen weitreichende Auswirkungen haben.
+
+- Absicht: Der entscheidende Unterschied zwischen Fake News und fehlerhaften Nachrichten liegt in der Absicht. Fake News werden absichtlich erstellt und verbreitet, während fehlerhafte Nachrichten auf einem unbeabsichtigten Fehler oder Missverständnis basieren können.
+
+- Schädliche Auswirkungen: Fake News können ernsthafte Konsequenzen haben, darunter die Beeinflussung von Wahlen, die Verschärfung von Konflikten, die Schädigung von Ruf und Glaubwürdigkeit sowie die Verbreitung von Angst und Panik.
+
 Verbreitung und Auswirkungen:
 
 Wie verbreiten sich Fake News in sozialen Medien und anderen Plattformen?
