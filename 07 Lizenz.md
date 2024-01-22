@@ -1,3 +1,5 @@
+## 07 Lizenz
+
 ## Aufgabe 1: Erklären Sie das Wort Lizenz. Was bedeutet das?
 
 Eine Lizenz ist im Allgemeinen eine Genehmigung oder Erlaubnis, die von einem Rechteinhaber oder Eigentümer gewährt wird, um bestimmte Rechte oder eine Nutzung zu gestatten. Es handelt sich um eine rechtliche Vereinbarung, die die Bedingungen festlegt, unter denen jemand anderes bestimmte Rechte nutzen kann, die normalerweise dem Eigentümer oder Urheber zustehen.
