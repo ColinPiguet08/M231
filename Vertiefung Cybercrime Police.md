@@ -83,7 +83,8 @@ Die **Cybercrime Police**, auch als *Cybercrime Units* oder *Cybercrime Task For
 
 - Cybercrime Police: Neben der Verfolgung von Straftaten haben sie oft eine Rolle in der Prävention und Aufklärung der Öffentlichkeit über Cybergefahren.
 - Sicherheitsfirmen: Diese konzentrieren sich oft mehr auf reaktive Maßnahmen und physische Sicherheitspräsenz.
-Insgesamt liegt der Hauptunterschied darin, dass die Cybercrime Police speziell für die Bewältigung von Cyberkriminalität ausgebildet und ausgerüstet ist, während herkömmliche Sicherheitsfirmen einen breiteren Fokus haben, der physische und digitale Sicherheitsaspekte umfassen kann.
+
+**Insgesamt liegt der Hauptunterschied darin, dass die Cybercrime Police speziell für die Bewältigung von Cyberkriminalität ausgebildet und ausgerüstet ist, während herkömmliche Sicherheitsfirmen einen breiteren Fokus haben, der physische und digitale Sicherheitsaspekte umfassen kann.**
 
 ---
 
