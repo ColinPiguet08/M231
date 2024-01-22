@@ -1,5 +1,4 @@
-# Datenschutz: Vertiefte Betrachtung von E-Mail-Sicherheit und Smartphone-Sicherheit
-
+# 06 Checklisten
 ## Thema 1: E-Mail Sicherheit
 
 ### Passen Sie Ihr Verhalten an
