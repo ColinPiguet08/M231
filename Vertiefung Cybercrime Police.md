@@ -2,19 +2,19 @@
 
 ---
 
-## I. Einleitung
+## Einleitung
 
 Die fortschreitende Digitalisierung unserer Gesellschaft bringt nicht nur Vorteile, sondern auch Herausforderungen mit sich. Cyberkriminalität hat in den letzten Jahren stark zugenommen, und in Reaktion darauf haben viele Länder spezialisierte Einheiten, wie die Cybercrime Police, etabliert. Diese Dokumentation beleuchtet, wer die Cybercrime Police sind, welche Aufgaben sie haben und wie sie gegen Cyberkriminalität vorgehen.
 
 ---
 
-## II. Was ist die Cybercrime Police?
+## Was ist die Cybercrime Police?
 
 Die **Cybercrime Police**, auch als *Cybercrime Units* oder *Cybercrime Task Forces* bekannt, sind spezialisierte Abteilungen innerhalb von Polizeibehörden, die sich ausschließlich mit der Bekämpfung von Straftaten im Cyberspace befassen. Ihr Fokus liegt darauf, Verbrechen zu verhindern, aufzudecken und zu verfolgen, die im Zusammenhang mit Computern, Netzwerken und dem Internet stehen.
 
 ---
 
-## III. Aufgaben der Cybercrime Police
+## Aufgaben der Cybercrime Police
 
 1. **Ermittlung und Prävention:** Die Cybercrime Police führen Ermittlungen durch, um Cyberkriminalität zu identifizieren, zu verfolgen und zu stoppen. Gleichzeitig arbeiten sie an präventiven Maßnahmen, um zukünftige Straftaten zu verhindern.
 
@@ -28,7 +28,7 @@ Die **Cybercrime Police**, auch als *Cybercrime Units* oder *Cybercrime Task For
 
 ---
 
-## IV. Wie geht die Cybercrime Police gegen Cyberkriminalität vor?
+## Wie geht die Cybercrime Police gegen Cyberkriminalität vor?
 
 1. **Technologische Überwachung:** Einsatz modernster Technologien zur Überwachung von Netzwerken, um verdächtige Aktivitäten zu identifizieren.
 
@@ -40,7 +40,7 @@ Die **Cybercrime Police**, auch als *Cybercrime Units* oder *Cybercrime Task For
 
 ---
 
-## V. Herausforderungen für die Cybercrime Police
+## Herausforderungen für die Cybercrime Police
 
 1. **Anonymität im Cyberspace:** Täter können ihre Identität leicht verschleiern, was die Identifizierung und Verfolgung erschwert.
 
@@ -50,6 +50,6 @@ Die **Cybercrime Police**, auch als *Cybercrime Units* oder *Cybercrime Task For
 
 ---
 
-## VI. Fazit
+## Fazit
 
 Die Cybercrime Police spielt eine entscheidende Rolle im Kampf gegen die stetig wachsende Bedrohung durch Cyberkriminalität. Ihre Bemühungen reichen von der Ermittlung und Verfolgung von Tätern bis zur Sensibilisierung der Öffentlichkeit für die Gefahren im Cyberspace. Durch ständige Anpassung, internationale Kooperation und technologische Innovation tragen diese Einheiten dazu bei, die digitale Welt sicherer zu gestalten.
