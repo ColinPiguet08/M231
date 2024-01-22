@@ -44,6 +44,10 @@ Datenklau bezieht sich auf den unbefugten Zugriff, die Sammlung oder die Verwend
 
 ---
 
+## Eigene Erfahrungen
+
+Bisher hatte ich persönlich noch keine direkten Erfahrungen mit Datenklau gemacht. Es kam lediglich vor, dass ich gelegentlich Phishing-Mails oder Nachrichten erhielt, bei denen deutlich war, dass man sie keinesfalls öffnen sollte. Glücklicherweise ist mir selbst noch nie etwas Derartiges passiert.
+
 ## Schutzmassnahmen gegen Datenklau
 
 1. **Starke Passwörter:** Verwenden Sie komplexe Passwörter und ändern Sie diese regelmässig.
