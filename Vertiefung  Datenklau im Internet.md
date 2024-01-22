@@ -1,4 +1,4 @@
-# Dokumentation: Datenklau im Internet
+# Datenklau im Internet
 
 ## Einleitung
 
