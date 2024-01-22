@@ -8,13 +8,13 @@ Die fortschreitende Digitalisierung unserer Gesellschaft bringt nicht nur Vortei
 
 ## Was ist die Cybercrime Police?
 
-Die **Cybercrime Police**, auch als *Cybercrime Units* oder *Cybercrime Task Forces* bekannt, sind spezialisierte Abteilungen innerhalb von Polizeibehörden, die sich ausschließlich mit der Bekämpfung von Straftaten im Cyberspace befassen. Ihr Fokus liegt darauf, Verbrechen zu verhindern, aufzudecken und zu verfolgen, die im Zusammenhang mit Computern, Netzwerken und dem Internet stehen.
+Die **Cybercrime Police**, auch als *Cybercrime Units* oder *Cybercrime Task Forces* bekannt, sind spezialisierte Abteilungen innerhalb von Polizeibehörden, die sich ausschliesslich mit der Bekämpfung von Straftaten im Cyberspace befassen. Ihr Fokus liegt darauf, Verbrechen zu verhindern, aufzudecken und zu verfolgen, die im Zusammenhang mit Computern, Netzwerken und dem Internet stehen.
 
 ---
 
 ## Aufgaben der Cybercrime Police
 
-1. **Ermittlung und Prävention:** Die Cybercrime Police führen Ermittlungen durch, um Cyberkriminalität zu identifizieren, zu verfolgen und zu stoppen. Gleichzeitig arbeiten sie an präventiven Maßnahmen, um zukünftige Straftaten zu verhindern.
+1. **Ermittlung und Prävention:** Die Cybercrime Police führen Ermittlungen durch, um Cyberkriminalität zu identifizieren, zu verfolgen und zu stoppen. Gleichzeitig arbeiten sie an präventiven Massnahmen, um zukünftige Straftaten zu verhindern.
 
 2. **Digitale Forensik:** Experten in digitaler Forensik analysieren elektronische Beweismittel, um Täter zu identifizieren und vor Gericht belastbare Beweise zu liefern.
 
@@ -56,7 +56,7 @@ Die **Cybercrime Police**, auch als *Cybercrime Units* oder *Cybercrime Task For
 
 3. **Kampf gegen digitale Terrorismus:** Identifikation und Überwachung von Online-Aktivitäten terroristischer Organisationen.
 
-4. **Schutz kritischer Infrastrukturen:** Sicherheitsmaßnahmen zum Schutz vor Cyberangriffen auf lebenswichtige Infrastrukturen wie Stromnetze, Wasserversorgung usw.
+4. **Schutz kritischer Infrastrukturen:** Sicherheitsmassnahmen zum Schutz vor Cyberangriffen auf lebenswichtige Infrastrukturen wie Stromnetze, Wasserversorgung usw.
 
 ---
 
