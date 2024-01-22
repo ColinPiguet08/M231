@@ -1,6 +1,4 @@
-# Dokumentation: Cybercrime Police
-
----
+# Cybercrime Police
 
 ## Einleitung
 
