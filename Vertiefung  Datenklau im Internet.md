@@ -2,7 +2,7 @@
 
 ## Einleitung
 
-Die fortschreitende Digitalisierung hat das Internet zu einem integralen Bestandteil unseres täglichen Lebens gemacht. Mit den zahlreichen Vorteilen, die das World Wide Web bietet, gehen jedoch auch ernsthafte Risiken einher, darunter insbesondere der Datenklau. Diese Dokumentation widmet sich dem Phänomen des Datenklaus im Internet, beleuchtet die verschiedenen Formen, Ursachen und Auswirkungen sowie mögliche Schutzmaßnahmen.
+Die fortschreitende Digitalisierung hat das Internet zu einem integralen Bestandteil unseres täglichen Lebens gemacht. Mit den zahlreichen Vorteilen, die das World Wide Web bietet, gehen jedoch auch ernsthafte Risiken einher, darunter insbesondere der Datenklau. Diese Dokumentation widmet sich dem Phänomen des Datenklaus im Internet, beleuchtet die verschiedenen Formen, Ursachen und Auswirkungen sowie mögliche Schutzmassnahmen.
 
 ---
 
@@ -26,7 +26,7 @@ Datenklau bezieht sich auf den unbefugten Zugriff, die Sammlung oder die Verwend
 
 ## Ursachen von Datenklau im Internet
 
-1. **Unzureichende Sicherheitsmaßnahmen:** Schwachstellen in Software, unsichere Passwörter und mangelnde Verschlüsselung können den Weg für Datenklaus öffnen.
+1. **Unzureichende Sicherheitsmassnahmen:** Schwachstellen in Software, unsichere Passwörter und mangelnde Verschlüsselung können den Weg für Datenklaus öffnen.
 
 2. **Menschliches Versagen:** Fehlende Sensibilisierung der Nutzer für Sicherheitsrisiken und unvorsichtige Handlungen, wie das Teilen sensibler Informationen online.
 
@@ -36,7 +36,7 @@ Datenklau bezieht sich auf den unbefugten Zugriff, die Sammlung oder die Verwend
 
 ## Auswirkungen von Datenklau
 
-1. **Finanzielle Verluste:** Opfer von Datenklau können erhebliche finanzielle Schäden erleiden, einschließlich gestohlener Gelder, Kreditkartenbetrug und Identitätsdiebstahl.
+1. **Finanzielle Verluste:** Opfer von Datenklau können erhebliche finanzielle Schäden erleiden, einschliesslich gestohlener Gelder, Kreditkartenbetrug und Identitätsdiebstahl.
 
 2. **Vertrauensverlust:** Unternehmen und Plattformen, die von Datenklau betroffen sind, riskieren den Verlust des Vertrauens ihrer Kunden, was langfristig den Ruf schädigen kann.
 
@@ -44,9 +44,9 @@ Datenklau bezieht sich auf den unbefugten Zugriff, die Sammlung oder die Verwend
 
 ---
 
-## Schutzmaßnahmen gegen Datenklau
+## Schutzmassnahmen gegen Datenklau
 
-1. **Starke Passwörter:** Verwenden Sie komplexe Passwörter und ändern Sie diese regelmäßig.
+1. **Starke Passwörter:** Verwenden Sie komplexe Passwörter und ändern Sie diese regelmässig.
 
 2. **Software-Updates:** Halten Sie Betriebssysteme und Anwendungen auf dem neuesten Stand, um Sicherheitslücken zu schließen.
 
