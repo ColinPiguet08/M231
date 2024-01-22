@@ -2,7 +2,7 @@
 
 ## Einleitung
 
-Die fortschreitende Digitalisierung unserer Gesellschaft bringt nicht nur Vorteile, sondern auch Herausforderungen mit sich. Cyberkriminalität hat in den letzten Jahren stark zugenommen, und in Reaktion darauf haben viele Länder spezialisierte Einheiten, wie die Cybercrime Police, etabliert. Diese Dokumentation beleuchtet, wer die Cybercrime Police sind, welche Aufgaben sie haben und wie sie gegen Cyberkriminalität vorgehen.
+Die fortschreitende Digitalisierung unserer Gesellschaft bringt nicht nur Vorteile, sondern auch Herausforderungen mit sich. Cyberkriminalität hat in den letzten Jahren stark zugenommen, und in Reaktion darauf haben viele Länder spezialisierte Einheiten, wie die Cybercrime Police, etabliert. Diese Dokumentation beleuchtet, wer die Cybercrime Police sind, welche Aufgaben sie haben, wie sie gegen Cyberkriminalität vorgehen und gibt Einblick in aktuelle spezialisierte Aufgaben.
 
 ---
 
@@ -45,6 +45,18 @@ Die **Cybercrime Police**, auch als *Cybercrime Units* oder *Cybercrime Task For
 2. **Ständiger technologischer Wandel:** Die rasche Entwicklung von Technologien erfordert fortlaufende Schulungen und Anpassungen der Ermittler, um mit neuen Bedrohungen Schritt zu halten.
 
 3. **Internationale Jurisdiktion:** Die grenzüberschreitende Natur von Cyberkriminalität macht die Zusammenarbeit mit verschiedenen Rechtssystemen komplex.
+
+---
+
+## Aktuelle Aufträge der Cybercrime Police
+
+1. **Darknet-Operationen:** Infiltration und Überwachung von illegalen Aktivitäten im Darknet, um Kriminelle zu identifizieren und zu stoppen.
+
+2. **Ransomware-Bekämpfung:** Intensive Bemühungen zur Entschlüsselung von Ransomware und Verfolgung der Verantwortlichen.
+
+3. **Kampf gegen digitale Terrorismus:** Identifikation und Überwachung von Online-Aktivitäten terroristischer Organisationen.
+
+4. **Schutz kritischer Infrastrukturen:** Sicherheitsmaßnahmen zum Schutz vor Cyberangriffen auf lebenswichtige Infrastrukturen wie Stromnetze, Wasserversorgung usw.
 
 ---
 
