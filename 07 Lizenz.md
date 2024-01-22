@@ -1,4 +1,4 @@
-## 07 Lizenz
+# 07 Lizenz
 
 ## Aufgabe 1: Erklären Sie das Wort Lizenz. Was bedeutet das?
 
